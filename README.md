@@ -12,4 +12,6 @@ More on the way.
 ### CoinDesk API
 This API doesn't require anyone to signup but API require to manually customize the URL for different currencies. Right now I am only applying for bitcoin in CAD and USD.
 
+CoinDesk API: https://www.coindesk.com/api/
+
 Any feedback is welcome.
